@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://vivekchauhan.github.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: One More Blog
+subtitle: Notes for myself and somtimes for others
+author: Vivek Chauhan
 simple_search: http://google.com/search
-description:
+description: 
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -85,7 +85,7 @@ pinboard_user:
 pinboard_count: 3
 
 # Delicious
-delicious_user:
+delicious_user: 
 delicious_count: 3
 
 # Disqus Comments
@@ -93,7 +93,7 @@ disqus_short_name:
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-37290822-1
 
 # Facebook Like
 facebook_like: false
